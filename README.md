@@ -12,7 +12,9 @@ The **Doctor Appointment Summary System** is a streamlined application for manag
 
 ## Live Links  
 - **Backend API**: [Doctor Backend](https://doctor-backend-nmje.onrender.com)  
-- **Admin Portal**: [Admin Dashboard](https://bucolic-brigadeiros-a75a8b.netlify.app/)  
+- **Admin Portal**: [Admin Dashboard](https://bucolic-brigadeiros-a75a8b.netlify.app/)
+- Email:-shudhanshukumar69@gmail.com
+- Password:Shudh@99553 
 - **Frontend Application**: [Frontend Interface](https://hilarious-sunburst-1a5ac9.netlify.app/)  
 
 ## Technologies Used  
